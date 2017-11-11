@@ -12,7 +12,7 @@ div.jumbotron
 .jumbotron h1{
     font-size: 60px;
   }
-p.jumbotron
+.jumbotron p 
   {
     font-style:20px;
     padding-left: 40px;
