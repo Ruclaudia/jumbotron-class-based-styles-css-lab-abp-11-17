@@ -8,6 +8,8 @@ div.jumbotron
   padding: 10px;
   text-align: center;
 }
+div.jumbotron.h1
+
 body {
   padding: 0 30px 0 30px;
 }
